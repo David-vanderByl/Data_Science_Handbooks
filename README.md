@@ -6,7 +6,7 @@ Welcome to the **Data Science Handbooks** repository! This repository contains a
 
 - [pandas.ipynb](pandas.ipynb): This notebook is a guide to using the `pandas`` library for data manipulation and analysis. Explore the powerful features of pandas and how to effectively work with data frames.
 
-- [SQL Database Tutorial Handbook.md](SQL%Database%Tutorial%Handbook.md): This comprehensive Markdown file serves as a handbook for working with SQL databases using Python. Explore topics ranging from setting up databases to querying data via Python API and Pandas.
+- [SQL Database Tutorial Handbook.md](SQL%20Database%20Tutorial%20Handbook.md): This comprehensive Markdown file serves as a handbook for working with SQL databases using Python. Explore topics ranging from setting up databases to querying data via Python API and Pandas.
 
 - [correlation_methods.ipynb](correlation_methods.ipynb): Learn about different correlation methods to analyze relationships between variables. This Jupyter notebook demonstrates how to calculate and interpret correlations.
 
