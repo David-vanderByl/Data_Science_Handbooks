@@ -4,6 +4,8 @@ Welcome to the **Data Science Handbooks** repository! This repository contains a
 
 ## Table of Contents
 
+- [Python Tutorial Handbook for Data Science.md](Python%20Tutorial%20Handbook%20for%20Data%20Science.ipynb): A high-level guide covering Python programming and data science topics, from basics to advanced techniques. Learn about variables, data structures, data manipulation, visualization, machine learning, and more. Suitable for beginners and experienced data scientists alike.
+
 - [pandas.ipynb](pandas.ipynb): This notebook is a guide to using the `pandas`` library for data manipulation and analysis. Explore the powerful features of pandas and how to effectively work with data frames.
 
 - [SQL Database Tutorial Handbook.md](SQL%20Database%20Tutorial%20Handbook.md): This comprehensive Markdown file serves as a handbook for working with SQL databases using Python. Explore topics ranging from setting up databases to querying data via Python API and Pandas.
@@ -13,6 +15,9 @@ Welcome to the **Data Science Handbooks** repository! This repository contains a
 - [Statistical Significance and Margin of Error Handbook.ipynb](Statistical%20Significance%20and%20Margin%20of%20Error%20Handbook.ipynb): Delve into the essential concepts of statistical significance and margin of error. This Jupyter notebook offers clear explanations and practical examples.
 
 - [outliers.ipynb](outliers.ipynb): A Jupyter notebook that explores the topic of outliers in data analysis. Learn how to identify, handle, and interpret outliers in your datasets.
+
+
+
 
 ## How to Use
 
